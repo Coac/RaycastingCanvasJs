@@ -1,2 +1,6 @@
 # RaycastingCanvasJs
-Raycast test
+Raycast test..
+
+TODO : 
+Fix bug
+Clean-up
